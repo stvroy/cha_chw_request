@@ -57,7 +57,7 @@ A simple web application that allows Community Health Workers (CHWs) to request 
 2. **Create environment variables**
 
    ```bash
-   cp .env-copy .env
+   cp env-copy .env
 
 3. **Start the application with Docker Compose**
    ```bash
